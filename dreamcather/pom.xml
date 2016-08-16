@@ -2,13 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jiangkai.dreamcatcher</groupId>
-  <artifactId>dreamcatcher</artifactId>
+  <artifactId>dreamcather</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>dreamcatcher Maven Webapp</name>
+  <name>dreamcather Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  
-  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -17,10 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
-  
-  
   <build>
-    <finalName>dreamcatcher</finalName>
+    <finalName>dreamcather</finalName>
   </build>
 </project>
