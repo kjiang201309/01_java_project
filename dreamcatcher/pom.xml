@@ -7,8 +7,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>dreamcatcher Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  
-  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -17,9 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
-  
-  
   <build>
     <finalName>dreamcatcher</finalName>
   </build>
